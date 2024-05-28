@@ -1,8 +1,8 @@
-# crudapp
+# Flutter CRUD Application with Laravel REST API
 
-A new Flutter project.
+Welcome to the Flutter CRUD application with Laravel backend project! This project is a demonstration of a robust system enabling Create, Read, Update, and Delete operations through a Flutter frontend interacting seamlessly with a Laravel backend via RESTful API calls. Below, you'll find detailed information about the project's features, technologies utilized, installation instructions, API endpoints, contribution guidelines, and licensing.
 
-## Getting Started
+## Key Features
 
 This project is a starting point for a Flutter application.
 
